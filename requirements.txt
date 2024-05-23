@@ -1,0 +1,13 @@
+fastapi 
+qdrant_client   
+qdrant_client.models 
+PyPDF2 
+google.generativeai 
+pydantic 
+dotenv 
+typing 
+uuid
+re
+uvicorn
+sentence_transformers 
+fastapi.middleware.cors 
